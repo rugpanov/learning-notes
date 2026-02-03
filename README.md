@@ -17,7 +17,3 @@ Personal notes from books, talks, articles, and papers. Optimised for quick revi
 ## Papers
 
 *Coming soon*
-
----
-
-See [CLAUDE.md](CLAUDE.md) for note-taking style guidelines.
