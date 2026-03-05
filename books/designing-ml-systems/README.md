@@ -19,7 +19,7 @@ ML in production is fundamentally a systems problem, not a modelling problem. Th
 | 3   | Data Engineering Fundamentals                 | [notes](chapter_03_notes.md) |
 | 4   | Training Data                                 | [notes](chapter_04_notes.md) |
 | 5   | Feature Engineering                           | [notes](chapter_05_notes.md) |
-| 6   | Model Development and Offline Evaluation      | *coming soon*                |
+| 6   | Model Development and Offline Evaluation      | [notes](chapter_06_notes.md) |
 | 7   | Model Deployment and Prediction Service       | *coming soon*                |
 | 8   | Data Distribution Shifts and Monitoring       | *coming soon*                |
 | 9   | Continual Learning and Test in Production     | *coming soon*                |
