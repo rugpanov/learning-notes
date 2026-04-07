@@ -23,5 +23,5 @@ ML in production is fundamentally a systems problem, not a modelling problem. Th
 | 7   | Model Deployment and Prediction Service       | *coming soon*                |
 | 8   | Data Distribution Shifts and Monitoring       | *coming soon*                |
 | 9   | Continual Learning and Test in Production     | *coming soon*                |
-| 10  | Infrastructure and Tooling for MLOps          | *coming soon*                |
-| 11  | The Human Side of Machine Learning            | *coming soon*                |
+| 10  | Infrastructure and Tooling for MLOps          | [notes](chapter_10_notes.md) |
+| 11  | The Human Side of Machine Learning            | [notes](chapter_11_notes.md) |
